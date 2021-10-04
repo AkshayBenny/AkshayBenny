@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Zomato clone***
+- 🔭 I’m currently working on **Amazon clone**
 
-- 🌱 I’m currently learning **django**
+- 🌱 I’m currently learning **React js**
 
 <!--- 👯 I’m looking to collaborate on **Any Projects**
 
