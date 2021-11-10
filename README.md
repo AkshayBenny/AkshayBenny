@@ -1,8 +1,12 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="100px"/></a>
+<a href="#"><img width="100%" align="center" alt="Github" src="https://user-images.githubusercontent.com/60788180/131893851-b24002a3-72be-40cf-a179-7cbdff89b087.gif" /></a>
+<div align="center">
+ 
+</div>
+
+ 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Akshay</h1>
 <h3 align="center">I'm a Full Stack Developer</h3>
-
 
 ## 🙋‍♂️ About Me
 
@@ -10,15 +14,25 @@
 
 - 🌱 I’m currently learning **React js**
 
-<!--- 👯 I’m looking to collaborate on **Any Projects**
-
-- 👨‍💻 All of my projects are available at ****-->
+- 👯 I’m looking to collaborate on **Any Projects**
 
 - 📫 How to reach me **akshaybennyajh@gmail.com**
+  <br>
+  <br>
+<hr>
 
+## ❤ Views and Followers
 
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=AkshayBenny">
+</a>
+<a href="https://github.com/AkshayBenny?tab=followers"><img src="https://img.shields.io/github/followers/AkshayBenny?label=Followers&style=social" alt="GitHub Badge"></a>
+<hr>
+<br>
+<br>
 
 ## 🚀 Languages and Tools:
+
 
 <p align="center"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
@@ -39,42 +53,58 @@
     <a href="#"><img src="https://img.icons8.com/color/48/000000/django.png"/></a>
    
 </p>
+<hr>
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
-
+<p align="center">📊 My Github Stats</p>
 <p align="center">
-    <a href="https://github.com/AkshayBenny/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Akshay Benny's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AkshayBenny&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+<a href="https://github.com/AkshayBenny/github-readme-stats"> <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayBenny&count_private=true&theme=radical&layout=compact" alt="AkshayBenny" /></a>
+
 </p>
 
-## 📊 My Github Stats
-
   <br/>
-    <a href="https://github.com/AkshayBenny/github-readme-stats"><img alt="Akshay Benny's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AkshayBenny&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/AkshayBenny/github-readme-stats"><img alt="Akshay Benny's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayBenny&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
+    <a href="https://github.com/AkshayBenny/github-readme-stats"><img  align="left" width="48%" src='https://github-readme-stats.vercel.app/api?username=AkshayBenny&show_icons=true&theme=radical&count_private=true'/>
+</a>
+ <a href="https://github.com/AkshayBenny/github-readme-streak-stats">
+    <img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=AkshayBenny&count_private=true&theme=radical" alt="AkshayBenny"/>
+    </a>
   
+  <br/>
+<br>
+<div align="center">
+
+![GitHub metrics](https://metrics.lecoq.io/AkshayBenny?template=terminal&base.metadata=0&config.timezone=Asia%2FCalcutta)
+
+</div>
+
+<br/><hr>
+
+<div align="center">
+  <h4>🏆 Github Profile Trophies</h4>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+   <img src="https://github-profile-trophy.vercel.app/?username=AkshayBenny&theme=monokai&row=1&column=8">
+  </a>
+</div>
+<hr>
+<br/>
+
+![Harsh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AkshayBenny&theme=dracula)
+
 <br/>
 <br/>
 
-<a href="https://github.com/AkshayBenny/github-readme-activity-graph"><img alt="Akshay Benny's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AkshayBenny&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
+<hr>
 
 ## Connect with me:
-<p align="left">
+
+<p align="center">
 
 <a href = "https://www.linkedin.com/in/akshay-benny-5346bb209/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/akshay_benny_976/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
-
 </p>
 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=AkshayBenny">
-</a>
-<a href="https://github.com/AkshayBenny?tab=followers"><img src="https://img.shields.io/github/followers/AkshayBenny?label=Followers&style=social" alt="GitHub Badge"></a>
+<hr>
+
+![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
+
