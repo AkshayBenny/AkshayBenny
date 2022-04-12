@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Amazon clone**
+- 🔭 I’m currently working on **developing my skills**
 
 - 🌱 I’m currently learning **Next js**
 
