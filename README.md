@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Amazon clone**
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Next js**
 
 - 👯 I’m looking to collaborate on **Any Projects**
 
