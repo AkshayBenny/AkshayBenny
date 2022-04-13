@@ -50,23 +50,23 @@
   <br/>
 <br>
 <div align="center">
-
+<img align="center" width="80%" src="https://wakatime.com/share/@7ada6100-e98d-41b5-bc53-aa23530beb19/b25b1e10-7aab-44a0-8fce-b320f8bb9950.svg" />
 </div>
 
- <img align="center" width="100%" src="https://wakatime.com/share/@7ada6100-e98d-41b5-bc53-aa23530beb19/b25b1e10-7aab-44a0-8fce-b320f8bb9950.svg" />
+ 
 
 
-![Harsh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AkshayBenny&theme=dracula)
+<!-- ![Harsh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AkshayBenny&theme=dracula) -->
 
 <br/>
 
-## Connect with me:
+-- Connect with me:
 <br/>
 <a href = "https://www.linkedin.com/in/akshay-benny-5346bb209/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/akshay_benny_976/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 <br/>
-## ❤ Views and Followers
+-- Views and Followers:
 <br/>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=AkshayBenny">
