@@ -84,11 +84,11 @@
 <br>
 <div align="center">
 
-![GitHub metrics](https://metrics.lecoq.io/AkshayBenny?template=terminal&base.metadata=0&config.timezone=Asia%2FCalcutta)
+
 
 </div>
 
-
+ <img align="center" width="48%" src="https://wakatime.com/share/@7ada6100-e98d-41b5-bc53-aa23530beb19/b25b1e10-7aab-44a0-8fce-b320f8bb9950.svg" />
 
 
 ![Harsh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AkshayBenny&theme=dracula)
@@ -97,5 +97,5 @@
 <br/>
 
 
-![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
+
 
