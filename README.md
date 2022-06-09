@@ -14,12 +14,10 @@
 
 <p align="center"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-
- 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>  <a href="https://nextjs.org/" target="_blank"><img src="https://santhalakshminarayana.github.io/images/blog-nextjs-mdx/nextjs.jpeg" alt="nextjs" width="48" height="48"/></a>
    <img src="https://img.icons8.com/color/48/000000/html-5.png" width="48" height="48"/>
- <a href="https://nextjs.org/" target="_blank"><img src="https://santhalakshminarayana.github.io/images/blog-nextjs-mdx/nextjs.jpeg" alt="nextjs" width="48" height="48"/></a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" /> </a> 
+
+   <img src="https://img.icons8.com/color/48/000000/css3.png" /> 
   <a href="https://recoiljs.org/" target="_blank"> <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/298/thumb/recoil.png" width="48" height="48"/> </a> 
   <a href="https://redux.js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="48" height="48"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
