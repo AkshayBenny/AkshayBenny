@@ -14,7 +14,8 @@
 
 <p align="center"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>  <a href="https://nextjs.org/" target="_blank"><img src="https://santhalakshminarayana.github.io/images/blog-nextjs-mdx/nextjs.jpeg" alt="nextjs" width="48" height="48"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" width="48" height="48"/>
+ <a href="https://nextjs.org/" target="_blank"><img src="https://santhalakshminarayana.github.io/images/blog-nextjs-mdx/nextjs.jpeg" alt="nextjs" width="48" height="48"/></a>
    <img src="https://img.icons8.com/color/48/000000/html-5.png" width="48" height="48"/>
 
    <img src="https://img.icons8.com/color/48/000000/css3.png" /> 
