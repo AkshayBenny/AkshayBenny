@@ -52,9 +52,9 @@
   
   <br/>
 <br>
-<div align="center">
+<!-- <div align="center">
 <img align="center" width="80%" src="https://wakatime.com/share/@7ada6100-e98d-41b5-bc53-aa23530beb19/b25b1e10-7aab-44a0-8fce-b320f8bb9950.svg" />
-</div>
+</div> -->
 
  
 
