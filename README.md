@@ -2,8 +2,8 @@
  <a  href="#"><img width="60%" align="center" alt="Github" src="https://user-images.githubusercontent.com/60788180/131893851-b24002a3-72be-40cf-a179-7cbdff89b087.gif" /></a>
 </div> -->
 
-<h1 align="center">Hi, I'm Akshay</h1>
-<h3 align="center">I'm a Full Stack Developer</h3>
+<h1 align="center">Hello world, I'm Akshay</h1>
+<h3 align="center">A Full Stack Web Developer</h3>
 
   <br>
 
