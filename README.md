@@ -11,32 +11,8 @@
 
 <br>
 
-## 🚀 Languages and Tools:<br>
 
-<p align="center"> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" width="48" height="48"/>
- <a href="https://nextjs.org/" target="_blank"><img src="https://santhalakshminarayana.github.io/images/blog-nextjs-mdx/nextjs.jpeg" alt="nextjs" width="68" height="48"/></a>
-   <img src="https://img.icons8.com/color/48/000000/html-5.png" width="48" height="48"/>
 
-   <img src="https://img.icons8.com/color/48/000000/css3.png" /> 
-  <a href="https://recoiljs.org/" target="_blank"> <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/298/thumb/recoil.png" width="48" height="48"/> </a> 
-  <a href="https://redux.js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="48" height="48"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://tailwindcss.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="tailwind" width="48" height="48"/></a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/></a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png"  width="48" height="48"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="48" height="48"/></a>
-<img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" alt="firebase" width="30" height="48"/>
- <img src="https://cdn-icons-png.flaticon.com/512/873/873120.png" alt="heroku" width="48" height="48 />"
-    <a href="https://www.figma.com"  target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/></a>
-    <a href="https://www.adobe.com/in/products/photoshop.html?sdid=SGDJMMG3&mv=search&ef_id=CjwKCAjw9uKIBhA8EiwAYPUS3JglDWdEGGA4IWvgHQ0y_bahBKP-HTaBZ97vkCC8_BZjrW81UNjjFxoCyIAQAvD_BwE:G:s&s_kwcid=AL!3085!3!444587836691!e!!g!!adobe%20photoshop!221441588!17534749028&gclid=CjwKCAjw9uKIBhA8EiwAYPUS3JglDWdEGGA4IWvgHQ0y_bahBKP-HTaBZ97vkCC8_BZjrW81UNjjFxoCyIAQAvD_BwE"><img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/></a>
-    <a href="https://www.adobe.com/in/products/xd.html?sdid=12B9F15S&mv=Search&ef_id=CjwKCAjw9uKIBhA8EiwAYPUS3PiOPLgHVN-1NJA3WlQdUtlXZ8aklDp2gpCwp0-z3Mcx1LNs-QBkFRoC7nsQAvD_BwE:G:s&s_kwcid=AL!3085!3!526748867465!e!!g!!adobe%20xd!1641846448!65452677551"><img src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png"/></a>
-    <a href="https://www.framer.com/motion/" target="_blank"><img src="https://cdn.dribbble.com/users/3490038/screenshots/13820034/motion_logo_dribbble_dark2_4x.png" width="58" height="48"/></a>
-    
-   
-</p>
 
 
 <br/>
