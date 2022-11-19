@@ -18,15 +18,15 @@
 <br/>
 <p align="center">📊 My Github Stats</p>
 <p align="center">
-<a href="https://github.com/AkshayBenny/github-readme-stats"> <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayBenny&count_private=true&theme=radical&layout=compact" alt="AkshayBenny" /></a>
+<a href="https://github.com/AkshayBenny/github-readme-stats"> <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayBenny&show_icons=true&count_private=true&theme=dark&layout=compact&langs_count=10" alt="AkshayBenny" /></a>
 
 </p>
 
   <br/>
-    <a href="https://github.com/AkshayBenny/github-readme-stats"><img  align="left" width="48%" src='https://github-readme-stats.vercel.app/api?username=AkshayBenny&show_icons=true&theme=radical&count_private=true'/>
+    <a href="https://github.com/AkshayBenny/github-readme-stats"><img  align="left" width="48%" src='https://github-readme-stats.vercel.app/api?username=AkshayBenny&theme=dark&count_private=true&include_all_commits=true&show_icons=true'/>
 </a>
  <a href="https://github.com/AkshayBenny/github-readme-streak-stats">
-    <img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=AkshayBenny&count_private=true&theme=radical" alt="AkshayBenny"/>
+    <img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=AkshayBenny&count_private=true&theme=dark" alt="AkshayBenny"/>
     </a>
   
   <br/>
