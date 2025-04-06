@@ -1,8 +1,8 @@
 # Hello, I'm Akshay
 
-<!-- Animated header GIF (optional) -->
+<!-- Animated Typing SVG Header -->
 <p align="center">
-  <img width="200" height="200" alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile;I+love+coding+and+learning+new+things;Let's+build+something+amazing!" alt="Typing SVG" />
 </p>
 
 ## A Software Developer
@@ -11,31 +11,11 @@
 
 ## About Me
 
-<table>
-  <tr>
-    <!-- Left column: About Me text -->
-    <td style="vertical-align: top; padding-right: 20px;">
-      <p>
-        I'm someone who loves to experiment with new tech. My primary stack is <strong>Next.js</strong> with <strong>TypeScript</strong> and <strong>Tailwind CSS</strong>, and for backend development, I work mainly with <strong>Express.js</strong> and <strong>Spring Boot</strong>. I also do mobile development with <strong>React Native</strong>. I love building new software solutions and continuously learning new things.
-      </p>
-      <p>
-        Feel free to check out my portfolio at <a href="https://akshaybenny.com">akshaybenny.com</a>.
-      </p>
-    </td>
-    <!-- Right column: Animated images and welcome tagline -->
-    <td style="vertical-align: top;">
-      <p align="center">
-        <img width="200" height="200" alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-      </p>
-      <p align="center">
-        <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile;I+love+coding+and+learning+new+things;Let's+build+something+amazing!" alt="Typing SVG" />
-      </p>
-      <p align="center">
-        Welcome to my GitHub profile and let's build something useful
-      </p>
-    </td>
-  </tr>
-</table>
+<img align="right" width="200" height="200" alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
+I'm someone who loves to experiment with new tech. My primary stack is **Next.js** with **TypeScript** and **Tailwind CSS**, and for backend development, I work mainly with **Express.js** and **Spring Boot**. I also do mobile development with **React Native**. I love building new software solutions and continuously learning new things.
+
+Feel free to check out my portfolio at [akshaybenny.com](https://akshaybenny.com).
 
 ---
 
