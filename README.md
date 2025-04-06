@@ -1,10 +1,11 @@
-<!-- <div align="center">
+<div align="center">
 [![@akshay976's Holopin board](https://holopin.me/akshay976)](https://holopin.io/@akshay976)
  <a  href="#"><img width="60%" align="center" alt="Github" src="https://user-images.githubusercontent.com/60788180/131893851-b24002a3-72be-40cf-a179-7cbdff89b087.gif" /></a>
-</div> -->
+</div> 
 
 <h1 align="center">Hello world, I'm Akshay</h1>
 <h3 align="center">A Software Developer</h3>
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
   <br>
 
@@ -34,14 +35,11 @@
 <br>
 
 
-<div align="center">
-<img align="center" width="80%" src="https://wakatime.com/share/@7ada6100-e98d-41b5-bc53-aa23530beb19/b25b1e10-7aab-44a0-8fce-b320f8bb9950.svg" />
-</div> 
+
 
  
 
 
-![Harsh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AkshayBenny&theme=dracula) 
 
 <br/>
 
