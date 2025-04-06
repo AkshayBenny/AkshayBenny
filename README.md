@@ -28,22 +28,20 @@
  <a href="https://github.com/AkshayBenny/github-readme-streak-stats">
     <img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=AkshayBenny&count_private=true&theme=dark" alt="AkshayBenny"/>
     </a>
-  <br/>
-
-<p align="left"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="60" /><b>Git profile Trophies</b></h4></p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=AkshayBenny&theme=dark" />
 
   
   <br/>
 <br>
-<!-- <div align="center">
+
+
+<div align="center">
 <img align="center" width="80%" src="https://wakatime.com/share/@7ada6100-e98d-41b5-bc53-aa23530beb19/b25b1e10-7aab-44a0-8fce-b320f8bb9950.svg" />
-</div> -->
+</div> 
 
  
 
 
-<!-- ![Harsh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AkshayBenny&theme=dracula) -->
+![Harsh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AkshayBenny&theme=dracula) 
 
 <br/>
 
