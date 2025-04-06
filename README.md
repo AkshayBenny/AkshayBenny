@@ -1,19 +1,9 @@
+# Hello, I'm Akshay
+
+<!-- Animated header GIF (optional) -->
 <p align="center">
   <img width="200" height="200" alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 </p>
----
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile;I+love+coding+and+learning+new+things;Let's+build+something+amazing!" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" alt="Animated Banner" />
-</p>
-
-
----
-
-# Hello world! I'm Akshay
 
 ## A Software Developer
 
@@ -21,9 +11,31 @@
 
 ## About Me
 
-I'm someone who loves to experiment with new tech. My primary stack is **Next.js** with **TypeScript** and **Tailwind CSS**, and for backend development, I work mainly with **Express.js** and **Spring Boot**. I also do mobile development with **React Native**. I love building new software solutions and learning new things almost everyday.
-
-Feel free to check out my portfolio at [akshaybenny.com](https://akshaybenny.com).
+<table>
+  <tr>
+    <!-- Left column: About Me text -->
+    <td style="vertical-align: top; padding-right: 20px;">
+      <p>
+        I'm someone who loves to experiment with new tech. My primary stack is <strong>Next.js</strong> with <strong>TypeScript</strong> and <strong>Tailwind CSS</strong>, and for backend development, I work mainly with <strong>Express.js</strong> and <strong>Spring Boot</strong>. I also do mobile development with <strong>React Native</strong>. I love building new software solutions and continuously learning new things.
+      </p>
+      <p>
+        Feel free to check out my portfolio at <a href="https://akshaybenny.com">akshaybenny.com</a>.
+      </p>
+    </td>
+    <!-- Right column: Animated images and welcome tagline -->
+    <td style="vertical-align: top;">
+      <p align="center">
+        <img width="200" height="200" alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+      </p>
+      <p align="center">
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile;I+love+coding+and+learning+new+things;Let's+build+something+amazing!" alt="Typing SVG" />
+      </p>
+      <p align="center">
+        Welcome to my GitHub profile and let's build something useful
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -99,11 +111,14 @@ Feel free to check out my portfolio at [akshaybenny.com](https://akshaybenny.com
 
 ## Connect with Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/akshaybenny/">
+<p align="center">
+  <a href="https://www.linkedin.com/in/akshay-benny-5346bb209/">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/akshay_benny_976/">
     <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" />
   </a>
-  <a href="mailto:akshaybennyajhuk@gmail.com">
+  <a href="mailto:your-email@example.com">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" />
   </a>
 </p>
@@ -112,7 +127,7 @@ Feel free to check out my portfolio at [akshaybenny.com](https://akshaybenny.com
 
 ## 📈 GitHub Profile Views
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=AkshayBenny" alt="Profile Views" />
   </a>
