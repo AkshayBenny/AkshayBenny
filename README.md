@@ -18,7 +18,7 @@ I'm someone who loves to experiment with new tech. My primary stack is **Next.js
 
 Feel free to check out my portfolio at [akshaybenny.com](https://akshaybenny.com).
 
----
+
 
 ## 🚀 Tech Stack
 
