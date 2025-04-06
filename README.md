@@ -1,16 +1,16 @@
-# Hello, I'm Akshay
+# Hello world! I'm Akshay
 
 <p align="center">
   <img width="200" height="200" alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 </p>
 
-## A Software Developer | Passionate about Building Impactful Projects
+## A Software Developer
 
 ---
 
 ## About Me
 
-I'm someone who loves to experiment with new tech. My primary stack is **Next.js** with **TypeScript** and **Tailwind CSS**, and for backend development, I work mainly with **Express.js** and **Spring Boot**. I also do mobile development with **React Native**. I love building new software solutions and continuously learning new things.
+I'm someone who loves to experiment with new tech. My primary stack is **Next.js** with **TypeScript** and **Tailwind CSS**, and for backend development, I work mainly with **Express.js** and **Spring Boot**. I also do mobile development with **React Native**. I love building new software solutions and learning new things almost everyday.
 
 Feel free to check out my portfolio at [akshaybenny.com](https://akshaybenny.com).
 
@@ -19,7 +19,7 @@ Feel free to check out my portfolio at [akshaybenny.com](https://akshaybenny.com
 ## 🚀 Tech Stack
 
 ### Frontend & CMS
-<div align="center">
+<div align="left">
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img alt="React Native" src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -30,13 +30,13 @@ Feel free to check out my portfolio at [akshaybenny.com](https://akshaybenny.com
 </div>
 
 ### Mobile Development
-<div align="center">
+<div align="left">
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 </div>
 
 ### Backend Development
-<div align="center">
+<div align="left">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="Express" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
@@ -45,7 +45,7 @@ Feel free to check out my portfolio at [akshaybenny.com](https://akshaybenny.com
 </div>
 
 ### Databases & ORMs
-<div align="center">
+<div align="left">
   <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
@@ -53,7 +53,7 @@ Feel free to check out my portfolio at [akshaybenny.com](https://akshaybenny.com
 </div>
 
 ### DevOps, Cloud & Tools
-<div align="center">
+<div align="left">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
@@ -89,13 +89,10 @@ Feel free to check out my portfolio at [akshaybenny.com](https://akshaybenny.com
 ## Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/akshay-benny-5346bb209/">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/akshay_benny_976/">
+  <a href="https://www.linkedin.com/in/akshaybenny/">
     <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:akshaybennyajhuk@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" />
   </a>
 </p>
