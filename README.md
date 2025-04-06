@@ -28,6 +28,10 @@
  <a href="https://github.com/AkshayBenny/github-readme-streak-stats">
     <img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=AkshayBenny&count_private=true&theme=dark" alt="AkshayBenny"/>
     </a>
+
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="60" /><b>Git profile Trophies</b></h4></p><br>
+<img src="https://github-profile-trophy.vercel.app/?username=AkshayBenny&theme=dark" />
+
   
   <br/>
 <br>
