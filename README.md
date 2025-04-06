@@ -17,7 +17,7 @@ I'm someone who loves to experiment with new tech. My primary stack is **Next.js
 
 Feel free to check out my portfolio at [akshaybenny.com](https://akshaybenny.com).
 
----
+
 
 ## 🚀 Tech Stack
 
@@ -93,6 +93,7 @@ Feel free to check out my portfolio at [akshaybenny.com](https://akshaybenny.com
   <a href="https://www.linkedin.com/in/akshay-benny-5346bb209/">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" />
   </a>
+  
   <a href="mailto:your-email@example.com">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" />
   </a>
@@ -106,6 +107,7 @@ Feel free to check out my portfolio at [akshaybenny.com](https://akshaybenny.com
   <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=AkshayBenny" alt="Profile Views" />
   </a>
+  
   <a href="https://github.com/AkshayBenny?tab=followers">
     <img src="https://img.shields.io/github/followers/AkshayBenny?label=Followers&style=social" alt="GitHub Followers" />
   </a>
