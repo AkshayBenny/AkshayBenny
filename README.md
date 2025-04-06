@@ -1,8 +1,17 @@
 <p align="center">
   <img width="200" height="200" alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 </p>
+---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile;I+love+coding+and+learning+new+things;Let's+build+something+amazing!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" alt="Animated Banner" />
+</p>
 
 
+---
 
 # Hello world! I'm Akshay
 
