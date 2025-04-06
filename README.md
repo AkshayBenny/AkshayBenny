@@ -89,12 +89,9 @@ Feel free to check out my portfolio at [akshaybenny.com](https://akshaybenny.com
 
 ## Connect with Me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/akshay-benny-5346bb209/">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/akshay_benny_976/">
-    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" />
   </a>
   <a href="mailto:your-email@example.com">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" />
@@ -105,7 +102,7 @@ Feel free to check out my portfolio at [akshaybenny.com](https://akshaybenny.com
 
 ## 📈 GitHub Profile Views
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=AkshayBenny" alt="Profile Views" />
   </a>
