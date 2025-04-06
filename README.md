@@ -12,7 +12,7 @@
 
 <img align="right" width="200" height="200" alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-I'm someone who loves to experiment with new tech. My primary stack is **Next.js** with **TypeScript** and **Tailwind CSS**; for backend development, I work mainly with **Express.js** and **Spring Boot**. I also do mobile development with **React Native**. I love building new software solutions and continuously learning new things.
+I'm someone who loves to experiment with new tech. My primary stack is **Next.js** with **TypeScript** and **Tailwind CSS**; for backend development, I work mainly with **Express.js** and **Spring Boot**. I also do mobile development with **React Native**. I love building new software solutions and learning new things almost everyday.
 
 Feel free to check out my portfolio at [akshaybenny.com](https://akshaybenny.com).
 
