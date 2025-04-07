@@ -67,7 +67,7 @@ Feel free to check out my portfolio at [akshaybenny.com](https://akshaybenny.com
   <img alt="Sanity CMS" src="https://img.shields.io/badge/Sanity-CMS-FF2C00?style=for-the-badge&logo=sanity&logoColor=white"/>
 </p>
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -82,13 +82,13 @@ Feel free to check out my portfolio at [akshaybenny.com](https://akshaybenny.com
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=AkshayBenny&count_private=true&theme=dark" alt="GitHub Streak Stats" />
 </a>
 
----
+
 
 ## 🏆 GitHub Trophies
 
 [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=AkshayBenny&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
----
+
 
 ## Connect with Me
 
@@ -102,7 +102,7 @@ Feel free to check out my portfolio at [akshaybenny.com](https://akshaybenny.com
   </a>
 </p>
 
----
+
 
 ## 📈 GitHub Profile Views
 
